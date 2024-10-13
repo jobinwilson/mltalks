@@ -2,7 +2,7 @@
 My slides and resources from various talks/workshops
 | Title | Date & Venue | Slides/Video |
 | ---------- | -------------|-------|
-|Navigating the AI Revolution: Opportunities, Challenges, and Collective Responsibility| 24th Feb 2024, YMCA Hall, Trivandrum | [link](https://github.com/jobinwilson/mltalks/blob/main/Navigating%20the%20AI%20Revolution_TVM_Feb2024.pdf) (Slides)
+|Navigating the AI Revolution: Opportunities, Challenges, and Collective Responsibility| 24th Feb 2024, YMCA Hall, Trivandrum | [link](https://drive.google.com/file/d/13Cp7sz5tfnGXWUb0ea7oIcIlAZBWylCJ/view) (Slides)
 |Generative AI: From words to worlds|14th Dec 2023, Industrial Session, PReMI 23, Indian Statistical Institute, Kolkata| [link](https://youtu.be/uW3Vw130THQ?t=3948) (Video) 
 |AutoML for lifelong machine learning under concept drift|25th Mar 2019, Invited Talk, IIT Bombay| [link](https://docs.google.com/document/d/1JLX57OcauZPGykZKfwJPGo8ldiUWtZCNCPrvmKyWpQU/edit) (Slides)
 |AutoGBT: Automatically Optimized Gradient Boosting Trees for Classifying Large Volume High Cardinality Data Streams under Concept-Drift|Dec 8th  2019, Competition Track Session, NeurIPS 2018, Montreal, Canada (remote)| [link](https://ccc.inaoep.mx/~hugojair/imgs/Autodidact_ai_team_video.mp4) (Video)
