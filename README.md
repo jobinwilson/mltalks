@@ -2,6 +2,7 @@
 My slides and resources from various talks/workshops
 | Title | Date & Venue | Slides/Video |
 | ---------- | -------------|-------|
+|AI Agent Lifecycle Platform Using Federated Learning|19th Dec 2024, IKDD Partners Session, CODS-COMAD 2024, IIT Jodhpur| [link](https://www.youtube.com/watch?v=vR9fbr8rfhY) (Video) 
 |Navigating the AI Revolution: Opportunities, Challenges, and Collective Responsibility| 24th Feb 2024, YMCA Hall, Trivandrum | [link](https://drive.google.com/file/d/13Cp7sz5tfnGXWUb0ea7oIcIlAZBWylCJ/view) (Slides)
 |Generative AI: From words to worlds|14th Dec 2023, Industrial Session, PReMI 23, Indian Statistical Institute, Kolkata| [link](https://youtu.be/uW3Vw130THQ?t=3948) (Video) 
 |AutoML for lifelong machine learning under concept drift|25th Mar 2019, Invited Talk, IIT Bombay| [link](https://docs.google.com/document/d/1JLX57OcauZPGykZKfwJPGo8ldiUWtZCNCPrvmKyWpQU/edit) (Slides)
